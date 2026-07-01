@@ -4,7 +4,7 @@ My name is *Bryan Sebastian*.<br>
 
 I'm a Computer Science Student at BINUS University@Kemanggisan.<br>
 
-I have interest on Data and AI.<br>
+I have huge interest on Data and AI.<br>
 
 I'm experienced on using SQL, Python for programming, and Python for Data Science/Analytics.<br>
 
