@@ -1,6 +1,6 @@
 # Hallo Everyone! 
 
-My name is Bryan Sebastian**.<br>
+My name is *Bryan Sebastian*.<br>
 
 I'm a Computer Science Student at BINUS University@Kemanggisan.<br>
 
